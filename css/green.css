@@ -1,0 +1,17 @@
+#logo {
+    background: #235E3D;
+}
+
+#menu ul li:hover {
+    background: #235E3D;
+}
+
+.button-more {
+    background: #235E3D;
+}
+
+body {
+    background-image: url('../img/hojas.jpg');
+    /* Cuando haga scroll la imagen nunca se acabe */
+    background-attachment: fixed;
+}

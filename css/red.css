@@ -1,0 +1,17 @@
+#logo {
+    background: #CA3413;
+}
+
+#menu ul li:hover {
+    background: #CA3413;
+}
+
+.button-more {
+    background: #CA3413;
+}
+
+body {
+    background-image: url('../img/rojo.jpg');
+    /* Cuando haga scroll la imagen nunca se acabe */
+    background-attachment: fixed;
+}

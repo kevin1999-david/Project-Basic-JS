@@ -1,0 +1,17 @@
+#logo {
+    background: #1f87c4;
+}
+
+#menu ul li:hover {
+    background: #1f87c4;
+}
+
+.button-more {
+    background: #1f87c4;
+}
+
+body {
+    background-image: url('../img/cielo.jpg');
+    /* Cuando haga scroll la imagen nunca se acabe */
+    background-attachment: fixed;
+}
